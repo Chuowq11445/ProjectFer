@@ -165,6 +165,8 @@
       ],
       "TotalPrice": 527000,
       "Status": "Pending",
+      "PaymentMethod": "VNPAY",
+      "PaymentStatus": "Unpaid",
       "CreatedAt": "2025-08-17T20:00:00Z"
     },
     {
@@ -176,6 +178,8 @@
       ],
       "TotalPrice": 676000,
       "Status": "Confirmed",
+      "PaymentMethod": "VNPAY",
+      "PaymentStatus": "Unpaid",
       "CreatedAt": "2025-08-18T10:30:00Z"
     }
   ]

@@ -53,7 +53,9 @@
       "Details": "Cotton 100% thoáng mát, form regular",
       "Imgs": ["img/tee-basic-1.jpg", "img/tee-basic-2.jpg"],
       "Price": 199000,
-      "Quantity": 50
+      "Quantity": 50,
+      "Sizes": ["S", "M", "L", "XL"],
+      "Colors": ["Trắng", "Đen", "Xanh"]
     },
     {
       "ProductId": 2,
@@ -62,7 +64,9 @@
       "Details": "Cotton compact, mềm, ít xù lông",
       "Imgs": ["img/tee-oversize-1.jpg"],
       "Price": 219000,
-      "Quantity": 45
+      "Quantity": 45,
+       "Sizes": ["S", "M", "L"],
+    "Colors": ["Trắng", "Hồng", "Be"]
     },
     {
       "ProductId": 3,
@@ -71,7 +75,9 @@
       "Details": "Nỉ dày, mũ trùm, túi kenguru",
       "Imgs": ["img/hoodie-1.jpg", "img/hoodie-2.jpg"],
       "Price": 499000,
-      "Quantity": 30
+      "Quantity": 30,
+    "Sizes": ["M", "L", "XL"],
+    "Colors": ["Đen", "Xám", "Xanh rêu"]
     },
     {
       "ProductId": 4,
@@ -80,7 +86,9 @@
       "Details": "Chất kaki co giãn nhẹ, tôn dáng",
       "Imgs": ["img/skirt-a-1.jpg"],
       "Price": 359000,
-      "Quantity": 20
+      "Quantity": 20,
+       "Sizes": ["S", "M", "L"],
+    "Colors": ["Đen", "Trắng", "Be"]
     },
     {
       "ProductId": 5,
@@ -89,7 +97,9 @@
       "Details": "Vải bamboo chống nhăn nhẹ",
       "Imgs": ["img/shirt-white-1.jpg"],
       "Price": 279000,
-      "Quantity": 40
+      "Quantity": 40,
+        "Sizes": ["M", "L", "XL"],
+    "Colors": ["Trắng"]
     },
     {
       "ProductId": 6,
@@ -98,7 +108,9 @@
       "Details": "Co giãn 2 chiều, ôm dáng",
       "Imgs": ["img/jean-skinny-1.jpg"],
       "Price": 399000,
-      "Quantity": 25
+      "Quantity": 25,
+       "Sizes": ["S", "M", "L"],
+    "Colors": ["Xanh nhạt", "Xanh đậm", "Đen"]
     },
     {
       "ProductId": 7,
@@ -107,7 +119,9 @@
       "Details": "Thoáng mát, phù hợp đi chơi",
       "Imgs": ["img/short-men-1.jpg"],
       "Price": 249000,
-      "Quantity": 35
+      "Quantity": 35,
+       "Sizes": ["M", "L", "XL"],
+    "Colors": ["Xám", "Be", "Xanh navy"]
     },
     {
       "ProductId": 8,
@@ -116,7 +130,9 @@
       "Details": "Vải voan, nhẹ, bay",
       "Imgs": ["img/maxi-1.jpg"],
       "Price": 549000,
-      "Quantity": 15
+      "Quantity": 15,
+        "Sizes": ["S", "M", "L"],
+    "Colors": ["Hồng", "Trắng", "Xanh pastel"]
     },
     {
       "ProductId": 9,
@@ -125,7 +141,9 @@
       "Details": "Logo thêu, vành cứng",
       "Imgs": ["img/cap-1.jpg"],
       "Price": 129000,
-      "Quantity": 60
+      "Quantity": 60,
+       "Sizes": ["Free size"],
+    "Colors": ["Đen", "Trắng", "Be"]
     },
     {
       "ProductId": 10,
@@ -134,7 +152,9 @@
       "Details": "Cotton thoáng, set 3 đôi",
       "Imgs": ["img/socks-low-1.jpg"],
       "Price": 59000,
-      "Quantity": 100
+      "Quantity": 100,
+      "Sizes": ["Free size"],
+    "Colors": ["Trắng", "Đen", "Xám"]
     }
   ],
   "Carts": [
